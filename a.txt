@@ -1,7 +1,5 @@
 aaa
 ccccccc
 c222222
-bbbbb
-b222222
 ccccccc
 ggggggg
